@@ -29,5 +29,3 @@ The Chicago and New York City files also have the following two columns:
 
 ### Credit
 At this point I would like to thank the people from **[UDACITY](https://www.udacity.com/)** for teaching me all this cool stuff. :mortar_board::sunglasses::+1:
-
-unnecessary sentence
