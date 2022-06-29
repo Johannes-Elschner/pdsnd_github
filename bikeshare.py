@@ -191,7 +191,6 @@ def raw_data(df):
     then asks the user if they wold like to see 5 more rows
     until the user chooses "no"."""
 
-
     # display first 5 rows of data set
     print_raw_data = input("\nWould you like to see some raw data? Enter yes or no.\n").lower()
     while print_raw_data not in ["yes", "no"]:
@@ -199,7 +198,6 @@ def raw_data(df):
     if print_raw_data == "yes":
         df_raw = df.drop(["Month", "Day", "Hour"], axis = 1)
         print(df_raw.head())
-
 
     # display 5 more rows of the data set as long as input = "yes"
     x = 0
