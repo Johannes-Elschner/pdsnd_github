@@ -1,6 +1,6 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-##### June 28th, 2022
+##### June 29th, 2022
 
 # Explore US Bikeshare Data
 
@@ -28,4 +28,4 @@ The Chicago and New York City files also have the following two columns:
 - **Birth Year**
 
 ### Credit
-At this point I would like to thank the people from **[UDACITY](https://www.udacity.com/)** for teaching me all this cool stuff. 
+At this point I would like to thank the people from **[UDACITY](https://www.udacity.com/)** for teaching me all this cool stuff.
